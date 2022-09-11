@@ -34,7 +34,7 @@ function checkLucky() {
     checkBdate(sumOfBdate, checknum);  
   }
     else{
-    outputArea.innerText = "birthdate or lucky number is missing"
+    outputArea.innerText = "Birthdate or Lucky number is missing 😫"
   }
   
 }
