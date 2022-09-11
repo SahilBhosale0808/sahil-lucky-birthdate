@@ -43,3 +43,7 @@ h1{
     background-color: #009BD6;
     cursor: pointer;
 }
+
+#output-text{
+    margin-top: 1rem;
+}
